@@ -1,7 +1,7 @@
-# Web Kelas
-Web Kelas adalah platform yang bertujuan untuk menyediakan informasi tentang kelas kami. 
+# INFORMATIKA 1C
+Web Kelas atau Informatika 1c adalah media yang bertujuan untuk menyediakan informasi tentang kelas kami. 
 
-Teknologi yang digunakan diantaranya: 
+Teknologi yang digunakan: 
 - React JS: Membangun antarmuka pengguna yang responsif dan interaktif.
 - MUI: MUI (Material-UI) digunakan untuk mendesain antarmuka dengan komponen Material Design yang indah.
 - Tailwind CSS: Memastikan tampilan dan gaya yang modern dan fleksibel.
@@ -15,7 +15,5 @@ Apa yang dapat Anda temukan di web ini:
 - Structure And Schedule: Memberikan informasi rinci tentang struktur kelas dan jadwal yang tersedia.
 
 Project ini di buat oleh :
-- Eki
-- Dafy
-
-Kunjungi situs web kami di https://xitkj3.vercel.app/ untuk mendapatkan informasi lebih lanjut. Kami sangat menghargai apabila Anda ingin menggunakan proyek ini, harap sertakan kredit kami dalam penggunaan Anda. Terima kasih! 🙏
+- Evelyn
+- Nanda Ayonima
