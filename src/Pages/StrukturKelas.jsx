@@ -73,7 +73,7 @@ const StrukturKelas = () => {
 					<img src="LineHorizontalPendek.svg" className="relative top-3 hidden lg:flex" />
 					<img src="LineHorizontalPendek.svg" className="relative top-3 hidden lg:flex" />
 					<div className="relative right-[0.2rem]">
-						<BorderStruktur Jabatan="Wakil Komting" Nama="Josep" Width="120px" />
+						<BorderStruktur Jabatan="Wakil Kopling" Nama="Josep" Width="120px" />
 					</div>
 				</div>
 
