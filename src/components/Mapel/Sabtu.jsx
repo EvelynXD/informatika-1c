@@ -10,4 +10,4 @@ const Sabtu = () => {
 	)
 }
 
-export default Sabtu
+export default Sabtu;
