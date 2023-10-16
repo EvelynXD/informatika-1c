@@ -34,10 +34,10 @@ const Schedule = () => {
   if (currentWeek === 1 || currentWeek === 3) {
     piketGroup = [
       ["Ria Indah Fitria, M.Kom"],
-      ["Farel", "Jeriko", "Wahyu", "Davina"],
-      ["Alya", "Hendri", "Hisyam", "Dafy"],
-      ["Putri", "Natar", "Wahid", "Fadliansyah"],
-      ["Cariska", "Pratiwi", "Ridho", "Farji"],
+      ["Riski Prasetyo Tulodo, M.Kom"],
+      ["Hadi Wibowo, MT", "Moh. Saefur Rokhman, M.Si"],
+      ["Dr. Agus Wibowo, MT", "Fathiah Isralestina, M.Kom"],
+      ["Dr. Suci Muljani, M.Pd", "Soebianto, M.Kom"],
     ];
   } else if (currentWeek === 2 || currentWeek === 4) {
     piketGroup = [
