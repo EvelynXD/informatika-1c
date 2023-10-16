@@ -10,4 +10,4 @@ const Minggu = () => {
 	)
 }
 
-export default Minggu
+export default Minggu;
