@@ -2,7 +2,7 @@
 const BoxOldWeb = () => {
 	return (
 		<div id="BoxOldWeb">
-			<a href="https://evelynxd-v2.vercel.app/">
+			<a href="https://evelynxd-portfolio-v2.vercel.app/">
 				<div className="flex justify-between">
 					<img src="/link.png" alt="" className="w-auto h-6" />
 					<img src="/next.png" alt="" className="h-3 w-3" />
