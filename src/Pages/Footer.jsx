@@ -6,7 +6,7 @@ const Footer = () => {
 			<div class="mx-auto w-full max-w-screen-xl px-8 py-6 lg:py-8">
 				<div class="md:flex md:justify-between">
 					<div class="mb-6 md:mb-0">
-						<a href="#" class="flex items-center">
+						<a href="https://www.facebook.com/profile.php?id=100090651867588" class="flex items-center">
 							<img
 								src="/LogoTKJ3.png"
 								alt=""
@@ -20,7 +20,7 @@ const Footer = () => {
 							<h2 class="mb-4 text-sm font-semibold uppercase text-white">CREATED BY</h2>
 							<ul class="text-gray-400 dark:text-gray-400 font-medium">
 								<li class="mb-2">
-									<a href="https://www.facebook.com/profile.php?id=100090651867588&mibextid=ZbWKwL" class="hover:underline">
+									<a href="https://github.com/EvelynXD" class="hover:underline">
 										EvelynXD
 									</a>
 								</li>
